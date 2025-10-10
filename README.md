@@ -78,6 +78,7 @@ To bridge **theoretical principles and practical experimentation**, empowering d
 
 - 📘 [Full Book Summary](./BOOK_SUMMARY.md) – a continuous overview of all nine parts.  
 - 🗂️ [Summaries by Part](./summaries/SUMMARY_INDEX.md) – navigate detailed breakdowns of each topic.  
+- 🧩 [General Glossary](./GLOSSARY.md)
 
 ---
 

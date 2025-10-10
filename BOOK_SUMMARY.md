@@ -142,3 +142,4 @@ It replaces trial-and-error with structure, reliability, and observability—emp
 📚 For deeper exploration, see:
 - [summaries/SUMMARY_INDEX.md](./summaries/SUMMARY_INDEX.md)
 - [Mastra Blog](https://mastra.ai/blog/principlesv2)
+- [General Glossary](./GLOSSARY.md)
